@@ -1,0 +1,109 @@
+[{"ID":"1",
+  "Area":"North",
+  "City":{"Zh_tw":"基隆市","En":"Keelung_City"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/Keelung_City.htm"},
+
+ {"ID":"2",
+  "Area":"North",
+  "City":{"Zh_tw":"台北市","En":"Taipei_City"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/Taipei_City.htm"},
+
+ {"ID":"3",
+  "Area":"North",
+  "City":{"Zh_tw":"新北市","En":"New_Taipei_City"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/New_Taipei_City.htm"},
+
+ {"ID":"4",
+  "Area":"North",
+  "City":{"Zh_tw":"桃園市","En":"Taoyuan_City"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/Taoyuan_City.htm"},
+
+ {"ID":"5",
+  "Area":"North",
+  "City":{"Zh_tw":"新竹市","En":"Hsinchu_City"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/Hsinchu_City.htm"},
+
+ {"ID":"6",
+  "Area":"North",
+  "City":{"Zh_tw":"新竹縣","En":"Hsinchu_County"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/Hsinchu_County.htm"},
+
+ {"ID":"7",
+  "Area":"Center",
+  "City":{"Zh_tw":"苗栗縣","En":"Miaoli_County"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/Miaoli_County.htm"},
+
+ {"ID":"8",
+  "Area":"Center",
+  "City":{"Zh_tw":"台中市","En":"Taichung_City"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/Taichung_City.htm"},
+
+ {"ID":"9",
+  "Area":"Center",
+  "City":{"Zh_tw":"彰化縣","En":"Changhua_County"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/Changhua_County.htm"},
+
+ {"ID":"10",
+  "Area":"Center",
+  "City":{"Zh_tw":"南投縣","En":"Nantou_County"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/Nantou_County.htm"},
+
+ {"ID":"11",
+  "Area":"Center",
+  "City":{"Zh_tw":"雲林縣","En":"Yunlin_County"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/Yunlin_County.htm"},
+
+ {"ID":"12",
+  "Area":"Center",
+  "City":{"Zh_tw":"嘉義市","En":"Chiayi_City"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/Chiayi_City.htm"},
+
+ {"ID":"13",
+  "Area":"Center",
+  "City":{"Zh_tw":"嘉義縣","En":"Chiayi_County"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/Chiayi_County.htm"},
+
+ {"ID":"14",
+  "Area":"East",
+  "City":{"Zh_tw":"宜蘭縣","En":"Yilan_County"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/Yilan_County.htm"},
+
+ {"ID":"15",
+  "Area":"East",
+  "City":{"Zh_tw":"花蓮縣","En":"Hualien_County"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/Hualien_County.htm"},
+
+ {"ID":"16",
+  "Area":"East",
+  "City":{"Zh_tw":"台東縣","En":"Taitung_County"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/Taitung_County.htm"},
+
+ {"ID":"17",
+  "Area":"SOuth",
+  "City":{"Zh_tw":"台南市","En":"Tainan_City"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/Tainan_City.htm"},
+
+ {"ID":"18",
+  "Area":"SOuth",
+  "City":{"Zh_tw":"高雄市","En":"Kaohsiung_City"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/Kaohsiung_City.htm"},
+
+ {"ID":"19",
+  "Area":"SOuth",
+  "City":{"Zh_tw":"屏東縣","En":"Pingtung_County"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/Pingtung_County.htm"},
+
+ {"ID":"20",
+  "Area":"SOuth",
+  "City":{"Zh_tw":"連江縣","En":"Lienchiang_County"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/Lienchiang_County.htm"},
+
+ {"ID":"21",
+  "Area":"SOuth",
+  "City":{"Zh_tw":"金門縣","En":"Kinmen_County"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/Kinmen_County.htm"},
+
+ {"ID":"22",
+  "Area":"SOuth",
+  "City":{"Zh_tw":"澎湖縣","En":"Penghu_County"},
+  "Web":"https://www.cwb.gov.tw/V7/forecast/taiwan/Penghu_County.htm"}]
