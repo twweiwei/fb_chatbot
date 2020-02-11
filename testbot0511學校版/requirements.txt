@@ -6,7 +6,7 @@ ChatterBot==0.8.1
 chatterbot-corpus==1.1.1
 click==6.7
 cycler==0.10.0
-Django==2.0.1
+Django==2.2.10
 Flask==0.12.2
 future==0.16.0
 googlemaps==2.5.1
