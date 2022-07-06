@@ -18,7 +18,7 @@ jieba==0.39
 Jinja2==2.10
 jsondatabase==0.1.7
 kiwisolver==1.0.1
-lxml==4.2.1
+lxml==4.9.1
 MarkupSafe==1.0
 mathparse==0.1.1
 matplotlib==2.2.2
